@@ -1,0 +1,14 @@
+C:\Users\ilruz\source\repos\Music\Music\bin\Debug\net8.0\Music.exe
+C:\Users\ilruz\source\repos\Music\Music\bin\Debug\net8.0\Music.deps.json
+C:\Users\ilruz\source\repos\Music\Music\bin\Debug\net8.0\Music.runtimeconfig.json
+C:\Users\ilruz\source\repos\Music\Music\bin\Debug\net8.0\Music.dll
+C:\Users\ilruz\source\repos\Music\Music\bin\Debug\net8.0\Music.pdb
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\Music.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\Music.AssemblyInfoInputs.cache
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\Music.AssemblyInfo.cs
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\Music.csproj.CoreCompileInputs.cache
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\Music.dll
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\refint\Music.dll
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\Music.pdb
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\Music.genruntimeconfig.cache
+C:\Users\ilruz\source\repos\Music\Music\obj\Debug\net8.0\ref\Music.dll
